@@ -1,0 +1,28 @@
+name: existing in thought
+favicon: null
+layout_spectrum: 0.561115053249523
+typography_spectrum: 0.34743829211220145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6967571859713644
+  lightness: 0.7516194155905396
+  saturation: 0.49958950211293995
+  rhythmicContrast: 0.18132987897843122
+purpose: []
