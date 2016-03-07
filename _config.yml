@@ -1,28 +1,40 @@
-name: existing in thought
 favicon: null
-layout_spectrum: 0.561115053249523
-typography_spectrum: 0.34743829211220145
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: existing in thought
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6967571859713644
-  lightness: 0.7516194155905396
-  saturation: 0.49958950211293995
-  rhythmicContrast: 0.18132987897843122
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.09677419
+  brandStrength: 0.4516129
+  lightness: 0.8996416
+  brandColors:
+    - '#170B0E'
+    - '#D8BE9A'
+    - '#FCD0BD'
+    - '#4B3018'
+    - '#A30B2F'
+  rhythmicContrast: 0.1326165
+typography_spectrum: 0.5340502
+layout_spectrum: 0.9050179
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
