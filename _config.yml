@@ -1,7 +1,7 @@
 name: existing in thought
 favicon: null
-layout_spectrum: 0.9050179
-typography_spectrum: 0.5340502
+layout_spectrum: 0.26382
+typography_spectrum: 0
 collections:
   - index:
       path: /
